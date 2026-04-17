@@ -1,0 +1,14 @@
+# Per-user runtime state
+settings.json
+
+# Ahk2Exe build output — publish via GitHub Releases instead
+*.exe
+
+# OS cruft
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
